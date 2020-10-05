@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [oai_kpa_mku.PcbDoc]
+   Generated File[oai_kpa_mku.TXT]
+   Generated File[oai_kpa_mku.LDP]
+   Generated File[oai_kpa_mku.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 22:12:28 On 01.10.2020

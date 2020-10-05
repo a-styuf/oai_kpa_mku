@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\YandexDisk\Work\Altium\NSU\Œ¿»_ œ¿\oai_kpa_mku\oai_kpa_mku.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance ALL|Scope=Board|Minimum=7.87
