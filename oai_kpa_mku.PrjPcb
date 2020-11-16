@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for oai_kpa_mku
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -429,44 +429,44 @@ DocumentPath=Project Outputs for oai_kpa_mku\BOM\oai_kpa_mku.xlsx
 DItemRevisionGUID=
 
 [Parameter1]
-Name=GlobalFunctionalModuleName
-Value=ОАИ КПА УЦМ
-
-[Parameter2]
-Name=GlobalFunctionalModuleRevision
-Value=#1
-
-[Parameter3]
-Name=GlobalProjectName
-Value=OAI_KPA_MKU
-
-[Parameter4]
-Name=GlobalProjectNumber
-Value=ЮМП.250.
-
-[Parameter5]
-Name=GlobalProjectRevision
-Value=#1
-
-[Parameter6]
-Name=Наименование
-Value=ОАИ КПА МКУ Модуль
-
-[Parameter7]
-Name=Норм.Контр.
-Value=Задорожная
-
-[Parameter8]
-Name=Проверил
+Name=Утвердил
 Value=Прокопьев
 
-[Parameter9]
+[Parameter2]
 Name=Разработал
 Value=Стюф
 
-[Parameter10]
-Name=Утвердил
+[Parameter3]
+Name=Проверил
 Value=Прокопьев
+
+[Parameter4]
+Name=Норм.Контр.
+Value=Задорожная
+
+[Parameter5]
+Name=Наименование
+Value=ОАИ КПА МКУ Модуль
+
+[Parameter6]
+Name=GlobalProjectRevision
+Value=#2.1
+
+[Parameter7]
+Name=GlobalProjectNumber
+Value=ЮМП.250.
+
+[Parameter8]
+Name=GlobalProjectName
+Value=OAI_KPA_MKU
+
+[Parameter9]
+Name=GlobalFunctionalModuleRevision
+Value=#2.1
+
+[Parameter10]
+Name=GlobalFunctionalModuleName
+Value=ОАИ КПА УЦМ
 
 [Configuration1]
 Name=Sources
@@ -479,7 +479,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for oai_kpa_mku
 
 [OutputGroup1]
 Name=Netlist Outputs

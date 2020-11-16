@@ -2,6 +2,151 @@
 FileName = oai_kpa_mku.GBR
 AutoAperture = True
 *************************************************************
+Generating : Mechanical 1
+      File : oai_kpa_mku.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D14
+    D15
+    D82
+    D137
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : oai_kpa_mku.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D136
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : oai_kpa_mku.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D25
+    D27
+    D28
+    D29
+    D31
+    D32
+    D39
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+    D134
+    D135
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : oai_kpa_mku.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : oai_kpa_mku.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D13
+    D62
+    D64
+    D65
+    D66
+    D68
+    D69
+    D76
+    D79
+    D80
+    D81
+    D83
+    D84
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+*************************************************************
+
+*************************************************************
 Generating : Top Solder
       File : oai_kpa_mku.GTS
 
@@ -52,6 +197,53 @@ Used DCodes :
     D53
     D54
     D55
+*************************************************************
+
+*************************************************************
+Generating : Internal Plane 2
+      File : oai_kpa_mku.GP1
+
+    Adding Layer      : Internal Plane 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D84
+    D95
+    D96
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+*************************************************************
+
+*************************************************************
+Generating : Mid-Layer 1
+      File : oai_kpa_mku.G1
+
+    Adding Layer      : Mid-Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D81
+    D95
+    D96
+    D97
 *************************************************************
 
 *************************************************************
@@ -109,197 +301,5 @@ Used DCodes :
     D96
     D97
     D98
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : oai_kpa_mku.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : oai_kpa_mku.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D14
-    D15
-    D82
-    D137
-*************************************************************
-
-*************************************************************
-Generating : Internal Plane 2
-      File : oai_kpa_mku.GP1
-
-    Adding Layer      : Internal Plane 2
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D14
-    D84
-    D95
-    D96
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-*************************************************************
-
-*************************************************************
-Generating : Mid-Layer 1
-      File : oai_kpa_mku.G1
-
-    Adding Layer      : Mid-Layer 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D81
-    D95
-    D96
-    D97
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : oai_kpa_mku.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D12
-    D13
-    D14
-    D15
-    D136
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : oai_kpa_mku.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D13
-    D62
-    D64
-    D65
-    D66
-    D68
-    D69
-    D76
-    D79
-    D80
-    D81
-    D83
-    D84
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D112
-    D113
-    D114
-    D115
-    D116
-    D117
-    D118
-    D119
-    D120
-    D121
-    D122
-    D123
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : oai_kpa_mku.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D17
-    D25
-    D27
-    D28
-    D29
-    D31
-    D32
-    D39
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D124
-    D125
-    D126
-    D127
-    D128
-    D129
-    D130
-    D131
-    D132
-    D133
-    D134
-    D135
 *************************************************************
 

@@ -1,6 +1,6 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 13:37:34 On 16.11.2020
+Start Output Generation At 13:50:47 On 16.11.2020
 
 Output: BOM
 Type  : BOM
@@ -11,4 +11,4 @@ From  : Variant [[No Variations]] of Project [oai_kpa_mku.PrjPcb]
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 13:37:39 On 16.11.2020
+Finished Output Generation At 13:50:51 On 16.11.2020
