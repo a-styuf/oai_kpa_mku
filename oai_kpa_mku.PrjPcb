@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for oai_kpa_mku
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -239,7 +239,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XHKJBTEY
+DocumentUniqueId=DASCUIUA
 
 [Document13]
 DocumentPath=main.Harness
@@ -341,7 +341,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ITRQHFCM
+DocumentUniqueId=FHCVFFJX
 
 [Document19]
 DocumentPath=oai_kpa_mku.Annotation
@@ -429,44 +429,44 @@ DocumentPath=Project Outputs for oai_kpa_mku\BOM\oai_kpa_mku.xlsx
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Утвердил
-Value=Прокопьев
+Name=GlobalFunctionalModuleName
+Value=ОАИ КПА УЦМ
 
 [Parameter2]
-Name=Разработал
-Value=Стюф
-
-[Parameter3]
-Name=Проверил
-Value=Прокопьев
-
-[Parameter4]
-Name=Норм.Контр.
-Value=Задорожная
-
-[Parameter5]
-Name=Наименование
-Value=ОАИ КПА МКУ Модуль
-
-[Parameter6]
-Name=GlobalProjectRevision
-Value=#2.1
-
-[Parameter7]
-Name=GlobalProjectNumber
-Value=ЮМП.250.
-
-[Parameter8]
-Name=GlobalProjectName
-Value=OAI_KPA_MKU
-
-[Parameter9]
 Name=GlobalFunctionalModuleRevision
 Value=#2.1
 
+[Parameter3]
+Name=GlobalProjectName
+Value=OAI_KPA_MKU
+
+[Parameter4]
+Name=GlobalProjectNumber
+Value=ЮМП.250.
+
+[Parameter5]
+Name=GlobalProjectRevision
+Value=#2.1
+
+[Parameter6]
+Name=Наименование
+Value=ОАИ КПА МКУ Модуль
+
+[Parameter7]
+Name=Норм.Контр.
+Value=Задорожная
+
+[Parameter8]
+Name=Проверил
+Value=Прокопьев
+
+[Parameter9]
+Name=Разработал
+Value=Стюф
+
 [Parameter10]
-Name=GlobalFunctionalModuleName
-Value=ОАИ КПА УЦМ
+Name=Утвердил
+Value=Прокопьев
 
 [Configuration1]
 Name=Sources
@@ -479,12 +479,12 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for oai_kpa_mku
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Phaser 7100N
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -590,7 +590,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Phaser 7100N
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -694,7 +694,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Phaser 7100N
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -716,7 +716,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Phaser 7100N
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -788,7 +788,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Phaser 7100N
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -825,7 +825,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Phaser 7100N
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1005,7 +1005,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Phaser 7100N
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -1049,7 +1049,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Phaser 7100N
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1110,7 +1110,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Phaser 7100N
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1463,139 +1463,139 @@ MatchStrictly2=1
 PhysicalNamingFormat=$ComponentPrefix$GlobalIndex
 GlobalIndexSortOrder=2
 GlobalIndexSortLocation=0
-UniqueIDPath0=\JQDBOXUL\JYSQZUNM
-DocumentName0=power.SchDoc
+UniqueIDPath0=\JQDBOXUL
+DocumentName0=main.SchDoc
 IsEnabled0=1
 SelectionScope0=All
 Order0=1
 IndexEnabled0=0
 IndexStartValue0=1
 Suffix0=
-UniqueIDPath1=
-DocumentName1=Module_main.SchDoc
+UniqueIDPath1=\YKGOVSYX
+DocumentName1=Functional_Module_main.SchDoc
 IsEnabled1=1
 SelectionScope1=All
-Order1=1
+Order1=3
 IndexEnabled1=0
 IndexStartValue1=1
 Suffix1=
-UniqueIDPath2=\JQDBOXUL\FDUXGAXB
-DocumentName2=adc.SchDoc
+UniqueIDPath2=\YKGOVSYX\VOZSVHHW\SLEESTBW
+DocumentName2=optron_ku_2ch.SchDoc
 IsEnabled2=1
 SelectionScope2=All
-Order2=1
+Order2=14
 IndexEnabled2=0
 IndexStartValue2=1
 Suffix2=
-UniqueIDPath3=\YKGOVSYX\VOZSVHHW\XQZBWLFA
-DocumentName3=optron_ku_2ch.SchDoc
+UniqueIDPath3=\JQDBOXUL\FDUXGAXB
+DocumentName3=adc.SchDoc
 IsEnabled3=1
 SelectionScope3=All
-Order3=10
+Order3=1
 IndexEnabled3=0
 IndexStartValue3=1
 Suffix3=
-UniqueIDPath4=\JQDBOXUL\UHLSWULX
-DocumentName4=USB.SchDoc
+UniqueIDPath4=\JQDBOXUL\GODZCYUV
+DocumentName4=dac.SchDoc
 IsEnabled4=1
 SelectionScope4=All
-Order4=1
+Order4=2
 IndexEnabled4=0
 IndexStartValue4=1
 Suffix4=
-UniqueIDPath5=\JQDBOXUL\GODZCYUV
-DocumentName5=dac.SchDoc
+UniqueIDPath5=\YKGOVSYX\VOZSVHHW\JSHCDPFH
+DocumentName5=optron_ku_2ch.SchDoc
 IsEnabled5=1
 SelectionScope5=All
-Order5=2
+Order5=12
 IndexEnabled5=0
 IndexStartValue5=1
 Suffix5=
-UniqueIDPath6=\YKGOVSYX\VOZSVHHW\QYUPRFQM
+UniqueIDPath6=\YKGOVSYX\VOZSVHHW\KHSKPHFS
 DocumentName6=optron_ku_2ch.SchDoc
 IsEnabled6=1
 SelectionScope6=All
-Order6=12
+Order6=10
 IndexEnabled6=0
 IndexStartValue6=1
 Suffix6=
-UniqueIDPath7=\YKGOVSYX\VOZSVHHW\ULNAYGVA
-DocumentName7=optron_ku_2ch.SchDoc
+UniqueIDPath7=\YKGOVSYX\VOZSVHHW
+DocumentName7=mku_16_ch.SchDoc
 IsEnabled7=1
 SelectionScope7=All
-Order7=11
+Order7=6
 IndexEnabled7=0
 IndexStartValue7=1
 Suffix7=
-UniqueIDPath8=\YKGOVSYX\VOZSVHHW
-DocumentName8=mku_16_ch.SchDoc
+UniqueIDPath8=\YKGOVSYX\VOZSVHHW\VSDUFYOZ
+DocumentName8=optron_ku_2ch.SchDoc
 IsEnabled8=1
 SelectionScope8=All
-Order8=6
+Order8=8
 IndexEnabled8=0
 IndexStartValue8=1
 Suffix8=
-UniqueIDPath9=\YKGOVSYX
-DocumentName9=Functional_Module_main.SchDoc
+UniqueIDPath9=\YKGOVSYX\VOZSVHHW\ZSQLOHAX
+DocumentName9=optron_ku_2ch.SchDoc
 IsEnabled9=1
 SelectionScope9=All
-Order9=3
+Order9=13
 IndexEnabled9=0
 IndexStartValue9=1
 Suffix9=
-UniqueIDPath10=\YKGOVSYX\VOZSVHHW\GMUEHBEF
+UniqueIDPath10=\YKGOVSYX\VOZSVHHW\OOPQECVV
 DocumentName10=optron_ku_2ch.SchDoc
 IsEnabled10=1
 SelectionScope10=All
-Order10=8
+Order10=11
 IndexEnabled10=0
 IndexStartValue10=1
 Suffix10=
-UniqueIDPath11=\JQDBOXUL
-DocumentName11=main.SchDoc
+UniqueIDPath11=\JQDBOXUL\JYSQZUNM
+DocumentName11=power.SchDoc
 IsEnabled11=1
 SelectionScope11=All
 Order11=1
 IndexEnabled11=0
 IndexStartValue11=1
 Suffix11=
-UniqueIDPath12=\JQDBOXUL\DIVQRAZS
-DocumentName12=GPIO_Shunt.SchDoc
+UniqueIDPath12=\YKGOVSYX\VOZSVHHW\KNXANRTN
+DocumentName12=optron_ku_2ch.SchDoc
 IsEnabled12=1
 SelectionScope12=All
-Order12=4
+Order12=7
 IndexEnabled12=0
 IndexStartValue12=1
 Suffix12=
-UniqueIDPath13=\YKGOVSYX\VOZSVHHW\KOTBYZFH
-DocumentName13=optron_ku_2ch.SchDoc
+UniqueIDPath13=\JQDBOXUL\UHLSWULX
+DocumentName13=USB.SchDoc
 IsEnabled13=1
 SelectionScope13=All
-Order13=9
+Order13=1
 IndexEnabled13=0
 IndexStartValue13=1
 Suffix13=
-UniqueIDPath14=\YKGOVSYX\VOZSVHHW\VLAPAXHH
-DocumentName14=optron_ku_2ch.SchDoc
+UniqueIDPath14=\JQDBOXUL\DIVQRAZS
+DocumentName14=GPIO_Shunt.SchDoc
 IsEnabled14=1
 SelectionScope14=All
-Order14=13
+Order14=4
 IndexEnabled14=0
 IndexStartValue14=1
 Suffix14=
-UniqueIDPath15=\YKGOVSYX\VOZSVHHW\XOSRBQEQ
-DocumentName15=optron_ku_2ch.SchDoc
+UniqueIDPath15=
+DocumentName15=Module_main.SchDoc
 IsEnabled15=1
 SelectionScope15=All
-Order15=15
+Order15=1
 IndexEnabled15=0
 IndexStartValue15=1
 Suffix15=
-UniqueIDPath16=\YKGOVSYX\VOZSVHHW\KVPHZVNP
+UniqueIDPath16=\YKGOVSYX\VOZSVHHW\SOXZLIUH
 DocumentName16=optron_ku_2ch.SchDoc
 IsEnabled16=1
 SelectionScope16=All
-Order16=14
+Order16=9
 IndexEnabled16=0
 IndexStartValue16=1
 Suffix16=

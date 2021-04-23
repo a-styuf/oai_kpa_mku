@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\YandexDisk\Work\Altium\NSU\Œ¿»_ œ¿\oai_kpa_mku\oai_kpa_mku.PcbDoc
-Date     : 16.11.2020
-Time     : 13:22:32
+Date     : 23.04.2021
+Time     : 12:07:53
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
@@ -91,28 +91,28 @@ Rule Violations :49
 Processing Rule : Matched Lengths(Tolerance=0.5mm) (InDifferentialPair('No Differential Pair'))
 Rule Violations :0
 
-Processing Rule : Room opt_4 (Bounding Region = (257.952mm, 23.464mm, 271.917mm, 43.264mm) (InComponentClass('opt_4'))
+Processing Rule : Room opt_4 (Bounding Region = (257.952mm, 23.464mm, 271.917mm, 39.664mm) (InComponentClass('opt_4'))
 Rule Violations :0
 
-Processing Rule : Room opt_3 (Bounding Region = (302.952mm, 47.964mm, 316.917mm, 67.764mm) (InComponentClass('opt_3'))
+Processing Rule : Room opt_3 (Bounding Region = (302.952mm, 50.764mm, 316.917mm, 66.964mm) (InComponentClass('opt_3'))
 Rule Violations :0
 
-Processing Rule : Room opt_1 (Bounding Region = (272.952mm, 47.964mm, 286.917mm, 67.764mm) (InComponentClass('opt_1'))
+Processing Rule : Room opt_1 (Bounding Region = (272.952mm, 50.864mm, 286.917mm, 67.064mm) (InComponentClass('opt_1'))
 Rule Violations :0
 
-Processing Rule : Room opt_2 (Bounding Region = (287.952mm, 47.964mm, 301.917mm, 67.764mm) (InComponentClass('opt_2'))
+Processing Rule : Room opt_2 (Bounding Region = (287.992mm, 50.804mm, 301.957mm, 67.004mm) (InComponentClass('opt_2'))
 Rule Violations :0
 
-Processing Rule : Room opt_7 (Bounding Region = (302.952mm, 23.464mm, 316.917mm, 43.264mm) (InComponentClass('opt_7'))
+Processing Rule : Room opt_7 (Bounding Region = (302.952mm, 23.464mm, 316.917mm, 39.664mm) (InComponentClass('opt_7'))
 Rule Violations :0
 
-Processing Rule : Room opt_0 (Bounding Region = (257.952mm, 47.564mm, 271.917mm, 67.364mm) (InComponentClass('opt_0'))
+Processing Rule : Room opt_0 (Bounding Region = (257.952mm, 50.864mm, 271.917mm, 67.064mm) (InComponentClass('opt_0'))
 Rule Violations :0
 
-Processing Rule : Room opt_5 (Bounding Region = (272.952mm, 23.464mm, 286.917mm, 43.264mm) (InComponentClass('opt_5'))
+Processing Rule : Room opt_5 (Bounding Region = (272.952mm, 23.464mm, 286.917mm, 39.664mm) (InComponentClass('opt_5'))
 Rule Violations :0
 
-Processing Rule : Room opt_6 (Bounding Region = (287.952mm, 23.464mm, 301.917mm, 43.264mm) (InComponentClass('opt_6'))
+Processing Rule : Room opt_6 (Bounding Region = (287.952mm, 23.464mm, 301.917mm, 39.664mm) (InComponentClass('opt_6'))
 Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
