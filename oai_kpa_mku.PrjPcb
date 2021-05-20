@@ -429,44 +429,44 @@ DocumentPath=Project Outputs for oai_kpa_mku\BOM\oai_kpa_mku.xlsx
 DItemRevisionGUID=
 
 [Parameter1]
-Name=GlobalFunctionalModuleName
-Value=ОАИ КПА УЦМ
-
-[Parameter2]
-Name=GlobalFunctionalModuleRevision
-Value=#2.1
-
-[Parameter3]
-Name=GlobalProjectName
-Value=OAI_KPA_MKU
-
-[Parameter4]
-Name=GlobalProjectNumber
-Value=ЮМП.250.
-
-[Parameter5]
-Name=GlobalProjectRevision
-Value=#2.1
-
-[Parameter6]
-Name=Наименование
-Value=ОАИ КПА МКУ Модуль
-
-[Parameter7]
-Name=Норм.Контр.
-Value=Задорожная
-
-[Parameter8]
-Name=Проверил
+Name=Утвердил
 Value=Прокопьев
 
-[Parameter9]
+[Parameter2]
 Name=Разработал
 Value=Стюф
 
-[Parameter10]
-Name=Утвердил
+[Parameter3]
+Name=Проверил
 Value=Прокопьев
+
+[Parameter4]
+Name=Норм.Контр.
+Value=Задорожная
+
+[Parameter5]
+Name=Наименование
+Value=ОАИ КПА МКУ Модуль
+
+[Parameter6]
+Name=GlobalProjectRevision
+Value=#2.2
+
+[Parameter7]
+Name=GlobalProjectNumber
+Value=ЮМП.250.
+
+[Parameter8]
+Name=GlobalProjectName
+Value=OAI_KPA_MKU
+
+[Parameter9]
+Name=GlobalFunctionalModuleRevision
+Value=#3.0
+
+[Parameter10]
+Name=GlobalFunctionalModuleName
+Value=ОАИ КПА УЦМ
 
 [Configuration1]
 Name=Sources
